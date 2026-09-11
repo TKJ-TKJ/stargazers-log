@@ -1,0 +1,26 @@
+[
+  {
+    "action": "starred",
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code source.",
+    "language": "TypeScript",
+    "url": "https://github.com/microsoft/vscode",
+    "starred_at": "2026-09-01"
+  },
+  {
+    "action": "starred",
+    "repo": "facebook/react",
+    "description": "A JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "url": "https://github.com/facebook/react",
+    "starred_at": "2026-09-04"
+  },
+  {
+    "action": "starred",
+    "repo": "python/cpython",
+    "description": "The Python programming language.",
+    "language": "Python",
+    "url": "https://github.com/python/cpython",
+    "starred_at": "2026-09-08"
+  }
+]
