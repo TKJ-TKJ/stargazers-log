@@ -1,0 +1,61 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f7f8fa;
+  color: #1f2328;
+}
+
+main {
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+h1 {
+  margin-bottom: 0.25rem;
+}
+
+p {
+  margin-top: 0;
+  color: #59636e;
+}
+
+.repo-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+}
+
+.repo-item {
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.repo-item a {
+  color: #0969da;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.repo-item a:hover,
+.repo-item a:focus {
+  text-decoration: underline;
+}
+
+.repo-meta {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #57606a;
+}
+
+.error {
+  color: #cf222e;
+}
